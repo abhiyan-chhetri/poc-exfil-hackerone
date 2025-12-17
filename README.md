@@ -1,6 +1,6 @@
 # PixelToe - Retro Arcade Tic Tac Toe
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/abhiyan-chhetri/poc-exfil-hackerone)
 
 PixelToe is a visually stunning, nostalgia-inducing Tic-Tac-Toe web application that immerses users in a 90s arcade aesthetic. The application transforms the classic pencil-and-paper game into a vibrant, neon-soaked digital experience complete with CRT monitor effects, scanlines, and pixel-art typography.
 
@@ -109,7 +109,7 @@ bun build
 wrangler deploy
 ```
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/abhiyan-chhetri/poc-exfil-hackerone)
 
 ### Configuration
 
